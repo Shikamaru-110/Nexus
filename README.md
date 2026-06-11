@@ -1,6 +1,6 @@
 # ***Nexus***
 
-A clean, lightweight, safe, and instantly understandable Android interface for senior users.
+A clean, lightweight, safe, and instantly understandable Android interface for senior users with digital arrest and inactivity alerts to their younger guardians.
 
 ---
 
