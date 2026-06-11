@@ -4,7 +4,7 @@ A clean, lightweight, safe, and instantly understandable Android interface for s
 
 ---
 
-## Features
+## Current Features
 - Clean and simple UI (Including the apps commonly used by senior citizens)
 - Prevents accidental position change of the apps/deletion of the apps
 - Prevents pocket dialing using second-level authentication via voice prompts
