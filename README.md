@@ -16,7 +16,8 @@ A clean, lightweight, safe, and instantly understandable Android interface for s
 - Inactivity alerts during waking hours (to detect health concerns with the senior user that prevents them from accessing their phones during waking hours):
   - If inactive for 3+ hours between 7:00 AM and 9:00 PM (local time - 14hrs)
   - Sends alert SMS to guardian regarding inactivity
-  - Repeats every 1 hour if inactivity continues (stops sending at 9:00pm)
+  - Repeats every 1 hour if inactivity continues
+  - Inactivity alerts are not sent during the sleepung (currently 9:00pm to 7:00am)
 ## *Next Development Steps*
 - Allowing the users to add apps according to their preference
 - changing the app into a custom Android Launcher
