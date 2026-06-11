@@ -4,7 +4,7 @@ A clean, lightweight, safe, and instantly understandable Android interface for s
 
 ---
 
-## Current Features
+## *Current Features*
 - Clean and simple UI (Including the apps commonly used by senior citizens)
 - Prevents accidental position change of the apps/deletion of the apps
 - Prevents pocket dialing using second-level authentication via voice prompts
@@ -24,3 +24,4 @@ A clean, lightweight, safe, and instantly understandable Android interface for s
 - Allowing the users to change the hours of inactivity alerts
 - Adding weather widget
 - Adding multilingual support and large symbols for apps
+- fetch already saved contacts in the phone's default calling app
